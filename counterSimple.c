@@ -14,7 +14,7 @@ void getName(char* s, char* temp_name);
 void storeName(node_pointer *initial_pointer, char* temp_name);
 void bubbleSort(node_pointer *initial_pointer);
 
-int main(void) //곰재주 엄마돈 단톡방 선착순 카운터. 자바칩 프라푸치노 기프티콘을 보내주고 싶다? https://open.kakao.com/o/sp5DxE4c
+int main(void) //곰재주 엄마돈 단톡방 선착순 카운터. 자바칩 프라푸치노 기프티콘을 보내주고 싶다? https://open.kakao.com/me/swji621
 {
     FILE* fp;
     fp=fopen("a.txt", "r");
